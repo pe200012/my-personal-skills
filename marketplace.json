@@ -1,0 +1,50 @@
+{
+  "name": "My Personal Skills",
+  "owner": {
+    "name": "pe200012"
+  },
+  "plugins": [
+    {
+      "name": "haskell-lens-best-practices",
+      "source": "haskell-lenses/SKILL.md",
+      "description": "Comprehensive guidelines for Haskell Lenses & Optics Best Practices.",
+      "version": "1.0.0",
+      "tags": ["haskell", "lenses", "functional-programming", "best-practices"]
+    },
+    {
+      "name": "avoiding-ai-writing",
+      "source": "avoiding-ai-writing/SKILL.md",
+      "description": "Use when writing wiki-style articles, documentation, summaries, or creative content to prevent \"AI accent\", puffery, and formulaic structures.",
+      "version": "1.0.0",
+      "tags": ["writing", "ai", "communication", "documentation"]
+    },
+    {
+      "name": "ast-grep",
+      "source": "writing-ast-grep/SKILL.md",
+      "description": "Guide for writing ast-grep rules to perform structural code search and analysis.",
+      "version": "1.0.0",
+      "tags": ["ast-grep", "search", "code-analysis", "structural-search"]
+    },
+    {
+      "name": "using-polkit-cli",
+      "source": "using-polkit-cli/SKILL.md",
+      "description": "Use when needing to run privileged commands (root) and sudo is unavailable or failing, or when explicitly interacting with PolicyKit (pkexec).",
+      "version": "1.0.0",
+      "tags": ["linux", "polkit", "security", "cli", "sudo"]
+    },
+    {
+      "name": "mpatch",
+      "source": "mpatch/SKILL.md",
+      "description": "Use when applying unified diff patches via CLI with fuzzy matching for out-of-date patches",
+      "version": "1.0.0",
+      "tags": ["git", "patch", "diff", "cli", "tool"]
+    },
+    {
+      "name": "haskell-best-practices",
+      "source": "haskell-best-practices/SKILL.md",
+      "description": "Comprehensive guidelines for Haskell development, covering type safety, error handling, performance, and project structure.",
+      "version": "1.0.0",
+      "tags": ["haskell", "functional-programming", "best-practices", "type-safety"]
+    }
+  ]
+}

@@ -1,7 +1,11 @@
 
 ---
 name: haskell-lens-best-practices
+version: 1.0.0
 description: Comprehensive guidelines for Haskell Lenses & Optics Best Practices.
+author: pe200012
+license: BSD-3-Clause
+tags: [haskell, lenses, functional-programming, best-practices]
 ---
 
 # Haskell Lenses & Optics Best Practices

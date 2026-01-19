@@ -1,6 +1,10 @@
 ---
 name: using-polkit-cli
+version: 1.0.0
 description: Use when needing to run privileged commands (root) and sudo is unavailable or failing, or when explicitly interacting with PolicyKit (pkexec).
+author: pe200012
+license: BSD-3-Clause
+tags: [linux, polkit, security, cli, sudo]
 ---
 
 # Using Polkit CLI (pkexec)

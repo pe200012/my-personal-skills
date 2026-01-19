@@ -1,7 +1,11 @@
 
 ---
 name: haskell-best-practices
+version: 1.0.0
 description: Comprehensive guidelines for Haskell development, covering type safety, error handling, performance, and project structure.
+author: pe200012
+license: BSD-3-Clause
+tags: [haskell, functional-programming, best-practices, type-safety]
 ---
 
 # Haskell Best Practices

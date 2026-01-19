@@ -1,6 +1,10 @@
 ---
 name: avoiding-ai-writing
+version: 1.0.0
 description: Use when writing wiki-style articles, documentation, summaries, or creative content to prevent "AI accent", puffery, and formulaic structures.
+author: pe200012
+license: BSD-3-Clause
+tags: [writing, ai, communication, documentation]
 ---
 
 # Avoiding AI Writing

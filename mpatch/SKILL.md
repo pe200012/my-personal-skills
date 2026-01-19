@@ -1,6 +1,10 @@
 ---
 name: mpatch
+version: 1.0.0
 description: Use when applying unified diff patches via CLI with fuzzy matching for out-of-date patches
+author: pe200012
+license: BSD-3-Clause
+tags: [git, patch, diff, cli, tool]
 ---
 
 # mpatch Skill
